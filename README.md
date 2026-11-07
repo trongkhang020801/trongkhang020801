@@ -1,6 +1,6 @@
-# Hi chào cậu 👋
+# Hi Chào Mọi Người 👋
 
-Mình là Nguyễn Trọng Khang. Hiện là sinh viên K-19 [ĐH Sư Phạm Kỹ Thuật - Đại học Đà Nẳng](http://ute.udn.vn/) 💼
+Mình là Nguyễn Trọng Khang. Hiện là Cựu sinh viên K-19 [ĐH Sư Phạm Kỹ Thuật - Đại học Đà Nẳng](http://ute.udn.vn/) 💼
 
 Đam mê của mình là cố gắng thực hiện đam mê 💖
 
